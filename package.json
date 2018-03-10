@@ -1,0 +1,20 @@
+{
+  "name": "run-length-encoder-decoder",
+  "version": "1.0.0",
+  "description": "Run length algorithm implement for encoding and decoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node run-length-encoder-decoder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmshamsnahid/Run-Length-Encoder-Decoder-.git"
+  },
+  "author": "B M Shams Nahid <b.m.shamsnahid@gmail.com> (https://medium.com/@bmshamsnahid)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmshamsnahid/Run-Length-Encoder-Decoder-/issues"
+  },
+  "homepage": "https://github.com/bmshamsnahid/Run-Length-Encoder-Decoder-#readme"
+}
