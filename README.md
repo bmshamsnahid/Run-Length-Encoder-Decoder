@@ -9,8 +9,8 @@ A small library that endcode and decode words using Run Length Algorithm
 
 ## Usage
 
-    let runLengthEncoderDecoder = require('./run-length-encoder-decoder');
-
+    let runLengthEncoderDecoder = require('run-length-encoder-decoder');
+    
     runLengthEncoderDecoder.encoder('aabbcccaaaaa', (err, result) => {
         if (err) {
             console.log(err);
