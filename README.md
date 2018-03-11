@@ -5,7 +5,7 @@ A small library that endcode and decode words using Run Length Algorithm
 
 ## Installation
 
-  `npm install @bmshamsnahid/run-length-encoder-decoder`
+  `npm i run-length-encoder-decoder --save`
 
 ## Usage
 

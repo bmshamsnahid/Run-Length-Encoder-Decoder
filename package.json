@@ -1,6 +1,6 @@
 {
   "name": "run-length-encoder-decoder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Run length algorithm implement for encoding and decoding",
   "main": "index.js",
   "scripts": {
